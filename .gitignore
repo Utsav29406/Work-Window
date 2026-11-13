@@ -1,0 +1,12 @@
+node_modules
+dist
+*.local
+.DS_Store
+.vercel
+.firebase
+.env
+.env.*
+.env*
+tsconfig.tsbuildinfo
+!.env.production
+!.env.example
